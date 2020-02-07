@@ -17,6 +17,8 @@ public class NewClass {
 		// TODO Auto-generated method stub
 		print("hussein");
                 print("hussein");
+                print("hussein");
+                print("hussein");
 	}
 
 }
